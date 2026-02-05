@@ -32,6 +32,9 @@ Assim como um **GPS** orienta o viajante, o **GBS** funciona como um guia intern
 - **chrono** (data e hora)
 - Manipulação de arquivos para persistência de dados
 
+_Acesse  relatório bem detalhado aqui_
+[Relatório do Projeto- GBS.pdf](https://github.com/user-attachments/files/25086499/Relatorio.do.Projeto-.GBS.pdf)
+
 ---
 
 ## 🚀 Como Executar o Projeto
@@ -47,3 +50,5 @@ Ter o Rust instalado. Caso não tenha:
 git clone https://github.com/SEU-USUARIO/GBS.git
 cd GBS
 cargo run
+
+

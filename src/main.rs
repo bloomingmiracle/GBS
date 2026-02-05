@@ -6,7 +6,7 @@ use std::io::Write;
 fn main() -> eframe::Result<()> {
     let options = eframe::NativeOptions {
         viewport: egui::ViewportBuilder::default()
-            .with_inner_size([900.0, 600.0]), // GOOD default size
+            .with_inner_size([900.0, 600.0]), 
         ..Default::default()
     };
 
@@ -132,7 +132,7 @@ egui::ScrollArea::vertical()
             egui::TextEdit::multiline(&mut self.scene)
                 .hint_text("Tell the scene...")
                 .desired_width(f32::INFINITY)
-                .desired_rows(20), // bigger now 🙂
+                .desired_rows(20),
         );
 
         ui.add_space(10.0);

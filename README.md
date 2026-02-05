@@ -33,7 +33,7 @@ Assim como um **GPS** orienta o viajante, o **GBS** funciona como um guia intern
 - Manipulação de arquivos para persistência de dados
 
 _Acesse  relatório bem detalhado aqui_
-[Relatório do Projeto- GBS.pdf](https://github.com/user-attachments/files/25086499/Relatorio.do.Projeto-.GBS.pdf)
+[Relatório do Projeto- GBS.pdf](https://github.com/user-attachments/files/25086555/Relatorio.do.Projeto-.GBS.pdf)
 
 ---
 

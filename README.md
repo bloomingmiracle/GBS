@@ -13,6 +13,7 @@ Assim como um **GPS** orienta o viajante, o **GBS** funciona como um guia intern
 - 💾 **Armazenamento local** — os registros são salvos automaticamente em um arquivo `.txt`, com data e horário.  
 - 🖥️ **Interface desktop** — layout limpo com navegação lateral para uma experiência intuitiva.  
 - ⏱️ **Timestamp automático** — cada cena é registrada com o momento exato em que foi criada.
+- 🔒**Imutabilidade das cenas** — As cenas registradas não podem ser editadas ou apagadas. Essa decisão é intencional e reflete a proposta do GBS: assim como na vida, o passado não pode ser alterado mas pode ser compreendido para guiar os próximos passos.
 
 ---
 ## Imagem da Página de Escrita

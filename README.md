@@ -1,6 +1,6 @@
 # 🌱 GBS — Growth Behind the Scenes
 
-O **GBS (Growth Behind the Scenes)** é um aplicativo desktop desenvolvido em **Rust** para registrar reflexões, experiências e aprendizados que acontecem nos bastidores do crescimento — pessoal, acadêmico, profissional e espiritual.
+O **GBS (Growth Behind the Scenes)** é um aplicativo desktop desenvolvido em **Rust** para registrar reflexões, experiências e aprendizados que acontecem nos bastidores de grandes acontecimentos, eventos ou até atividades do dia a dia— pessoal, acadêmico, profissional e espiritual.
 
 Assim como um **GPS** orienta o viajante, o **GBS** funciona como um guia interno, ajudando o usuário a perceber o quanto já cresceu e para onde está sendo direcionado. Criado para ser um espaço simples, organizado e acolhedor, permite escrever cenas, revisitar a própria trajetória e reconhecer que, mesmo quando o progresso não é visível, você ainda está avançando.
 

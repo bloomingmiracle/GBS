@@ -47,8 +47,10 @@ Ter o Rust instalado. Caso não tenha:
 
 ### Passos:
 
+## Como executar o projeto
+
 ```bash
-git clone https://github.com/SEU-USUARIO/GBS.git
+git clone https://github.com/bloomingmiracle/GBS.git
 cd GBS
 cargo run
 
